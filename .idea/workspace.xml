@@ -5,7 +5,42 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="841918b6-02ba-4695-9de6-d52806e9dc4d" name="Default Changelist" comment="" />
+    <list default="true" id="841918b6-02ba-4695-9de6-d52806e9dc4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/admin-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/admin-cate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/admin-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/admin-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/admin-role.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/admin-rule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/cate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/city.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/echarts8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/member-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/member-del.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/member-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/member-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/member-list1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/member-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/order-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/order-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/order-list1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/role-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/unicode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/X-admin-v2.2/welcome1.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
